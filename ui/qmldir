@@ -1,2 +1,3 @@
 module ui
 main 1.0 main.qml
+main2 1.0 main2.qml
